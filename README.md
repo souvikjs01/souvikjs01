@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Souvik Biswas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
+<img src="https://i.pinimg.com/474x/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.jpg">
 
 - 🌱 I’m currently learning **DSA, Full stack development(MERN)**
 
