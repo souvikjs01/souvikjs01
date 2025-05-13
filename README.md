@@ -21,10 +21,10 @@
 - Next.js | React.js | Tailwind CSS | TypeScript
 - REST APIs and GraphQL integration
 #### **Backend Development**
-- Golang (Gin, Fiber), Node.js (Express, Fastify)
-- PostgreSQL, MongoDB, Prisma ORM, GORM,
+- Node.js, Express.js, Next.js, Golang (Gin, Gorilla). 
+- PostgreSQL, MongoDB, Prisma ORM, GORM.
 #### **DevOps and Tools**
-- Docker | Kubernetes | CI/CD Pipelines
+- Docker | Kubernetes | CI/CD Pipelines | AWS | Nginx 
 - Git | GitHub
 
 ---
